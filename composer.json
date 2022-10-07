@@ -1,5 +1,5 @@
 {
-    "name": "naturalGroove/getresponse-sdk-php-client",
+    "name": "naturalgroove/getresponse-sdk-php-client",
     "description": "GetResponse SDK client for all public GetResponse product",
     "minimum-stability": "stable",
     "license": "MIT",
